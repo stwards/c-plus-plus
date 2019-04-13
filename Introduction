@@ -1,2 +1,10 @@
 std::string name = " Mickey";
 std::cout <<Hi there, " << name; 
+
+#include <iostream>
+
+int main()
+{
+std::cout << "Hello World!";
+return0;
+}

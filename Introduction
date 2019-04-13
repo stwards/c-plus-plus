@@ -8,3 +8,10 @@ int main()
 std::cout << "Hello World!";
 return0;
 }
+
+int main()
+{
+std::string name = "George";
+std::cout << "Hi there, " << name;
+return 0;
+

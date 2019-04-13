@@ -14,4 +14,7 @@ int main()
 std::string name = "George";
 std::cout << "Hi there, " << name;
 return 0;
+}
 
+int number = 7;
+std::cout << number;

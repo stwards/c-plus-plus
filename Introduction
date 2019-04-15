@@ -18,3 +18,6 @@ return 0;
 
 int number = 7;
 std::cout << number;
+
+std::string food = "potatoes";
+std::cout << "Oh how I love " << food << "!";

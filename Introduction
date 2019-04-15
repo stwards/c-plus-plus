@@ -21,3 +21,8 @@ std::cout << number;
 
 std::string food = "potatoes";
 std::cout << "Oh how I love " << food << "!";
+
+int number1 = 7;
+double number2 = 7.28121;
+std::cout << number1 << std::endl;
+std::cout << number2;
